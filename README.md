@@ -1,1 +1,1 @@
-#rsschool#
+https://CrazyDog1811.github.io/rsschool-cv/cv
