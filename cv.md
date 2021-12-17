@@ -13,3 +13,38 @@
 Since I am not writing an autobiography, but a resume, I will skip the section about hobbies, because I suspect that few people are really interested in it. Reading these lines is either a potential employer who is more interested in my technical baggage, or an idle curious. As for the technical side, it will be described in the **Skills**. My so-called soft-skills in the field of personnel management, trade and production organization are as comprehensive as they can be and useless. So I think I've written enough letters. Thank you all for your attention 
 
 ***
+
+
+## Skills: ##
++ HTML5
++ CSS3
++ MYSQL
++ PHP
++ JavaScript
++ Git/GitHub
++ Zeplin, Photoshop
++ VS Code, IntelliJ IDEA 
++ Figma
+
+***
+
+## Code examles: ##
+```
+function func() {
+    alert ('Hello');
+}
+```
+***
+## Courses: ##
+1. HTMLAcademy;
+1. IT-Shag;
+1. Stepik, сourse "Интерактивный тренажёр по SQL", [Certificate](https://stepik.org/cert/1123192);
+1. learnjavascript.ru; 
+1. RS-School
+
+***
+
+## Languages: ##
+- Russian - Native
+- Ukrainian - Free
+- English - Pre-Intermediate
