@@ -358,6 +358,10 @@ font-weight: 700;
     background-image: url("./assets/svg/icons8-email-46.png");
 }
 
+.contact-item>a{
+    text-decoration: none;
+}
+
 main {
     width: 70%;
     padding: 20px;
